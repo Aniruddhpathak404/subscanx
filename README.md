@@ -28,7 +28,9 @@ Instead of running several commands manually, SubX performs everything from one 
 
 ## 📷 Preview
 
-(Add screenshots here)
+![image alt](https://github.com/Aniruddhpathak404/subscanx/blob/main/git22.png?raw=true)
+
+![image alt]()
 
 ---
 
